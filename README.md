@@ -1,4 +1,3 @@
-# AI-Based-Vehicle-Blockage-Detection
 # AI-Based Vehicle Blockage Detection & Notification
 # 🚗 ParkAssist AI 
 
