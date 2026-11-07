@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+vehicles.db
+*.db
+static/uploads/
+car_blockage_output.jpg
